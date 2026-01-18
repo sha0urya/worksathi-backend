@@ -17,7 +17,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://worksathi-frontend.vercel.app"
+      "https://worksathi.vercel.app/"
     ],
     credentials: true
   })
